@@ -47,4 +47,41 @@ Gradio app screenshot((https://github.com/user-attachments/assets/f91a3eed-4e7a-
 git clone https:[//github.com/YasraNafees/Tweet-analysis.git](https://github.com/YasraNafees/Tweet-analysis/blob/main/tweet_Analysis.ipynb)
 cd sentiment-analysis
 
+✨ Features
+Clean and interactive UI via Gradio
+
+Fast predictions with pre-trained model
+
+Lightweight and easy to deploy
+
+🔗 Links
+💻 GitHub Repo
+
+🤗 Hugging Face Space
+
+
+📌 Author
+Yasra Nafees
+LinkedIn | GitHub
+
+📜 License
+This project is licensed under the MIT License.
+
+
+
+---
+
+Let me know if you'd like to:
+- Add a screenshot of your app in the README.
+- Include exact model info (e.g. "Logistic Regression with n-gram TF-IDF").
+- Auto-generate a live link from your Hugging Face Space.
+
+
+
+
+
+
+
+
+
 
