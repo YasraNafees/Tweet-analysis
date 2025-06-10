@@ -62,7 +62,7 @@ Lightweight and easy to deploy
 
 📌 Author
 Yasra Nafees
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/yasra-nafees-951b512bb/) | GitHub
 
 📜 License
 This project is licensed under the MIT License.
