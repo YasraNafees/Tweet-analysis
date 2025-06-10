@@ -17,3 +17,34 @@ Gradio app screenshot((https://github.com/user-attachments/assets/f91a3eed-4e7a-
 
 ## 📂 Project Structure
 
+
+---
+
+## 💡 How It Works
+
+1. User enters text in the Gradio interface.
+2. Text is transformed into a numerical vector using the TF-IDF vectorizer.
+3. The model predicts the sentiment of the text.
+4. Output is displayed as **Positive** or **Negative**.
+
+---
+
+## 🧠 Model Details
+
+- **Model Type**: Logistic Regression 
+- **Training Data**: Preprocessed text labeled with sentiment
+- **Libraries Used**:
+  - `scikit-learn`
+  - `joblib` & `pickle`
+  - `gradio`
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/sentiment-analysis.git
+cd sentiment-analysis
+
+
