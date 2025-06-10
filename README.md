@@ -2,7 +2,7 @@
 
 A simple web application built using **Gradio** and **Scikit-learn** that predicts the sentiment (Positive or Negative) of a given text input using a machine learning model.
 
-![Gradio App Screenshot](screenshot.png) ![image](https://github.com/user-attachments/assets/52585076-1c58-![tweet analysis](https://github.com/user-attachments/assets/f91a3eed-4e7a-4015-a573-5b8ff3fd81b9)
+Gradio app ]((https://github.com/user-attachments/assets/f91a3eed-4e7a-4015-a573-5b8ff3fd81b9)
 465f-a09f-d4bfd99d5cb5)
 
 
