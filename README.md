@@ -54,15 +54,11 @@ Fast predictions with pre-trained model
 
 Lightweight and easy to deploy
 
-🔗 Links
-💻 GitHub Repo
-
-🤗 Hugging Face Space
 
 
 📌 Author
 Yasra Nafees
-[LinkedIn](https://www.linkedin.com/in/yasra-nafees-951b512bb/) | GitHub
+[LinkedIn](https://www.linkedin.com/in/yasra-nafees-951b512bb/) | GitHub(https://github.com/YasraNafees)
 
 📜 License
 This project is licensed under the MIT License.
