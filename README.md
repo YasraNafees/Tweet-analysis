@@ -44,7 +44,7 @@ Gradio app screenshot((https://github.com/user-attachments/assets/f91a3eed-4e7a-
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https:[//github.com/YasraNafees/Tweet-analysis.git](https://github.com/YasraNafees/Tweet-analysis/blob/main/tweet_Analysis.ipynb)
 cd sentiment-analysis
 
 
